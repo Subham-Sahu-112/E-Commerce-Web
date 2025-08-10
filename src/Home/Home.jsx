@@ -1,5 +1,5 @@
-import Footer from "../components/Footer";
-import Header from "../components/Header";
+import Footer from "../Components/Footer";
+import Header from "../Components/Header";
 import Backgrounds from "./Backgrounds";
 import Cards from "./Charecters";
 import Hero from "./Hero";
